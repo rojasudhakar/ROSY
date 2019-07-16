@@ -1,5 +1,5 @@
-#include<studio.h>
+md#include<studio.h>
 {
 printf("If a signal is faithful,");
 printf("It doesn't need any transmitter to transmit it virtually");
-pprintf("                                         -ROSY   ");
+printf("                                         -ROJA SUDHAKAR   ");
